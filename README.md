@@ -13,4 +13,3 @@ CONCEITOS INICIAIS EM HTML5 E CSS3
 
 <p align="center"> Esse projeto tem por objetivo a exploração dos recursos HTML5 e a estilização por meio do CSS3.
 
-
