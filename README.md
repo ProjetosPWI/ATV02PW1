@@ -5,7 +5,7 @@ CONCEITOS INICIAIS EM HTML5 E CSS3
 
 <p align="center"> João Vitor Felismino do Nascimento 
 <p align="center">                 &
-<p align="center" #ff0000>Douglas Nicolas Alves Neves
+<p align="center" '#ff0000'>Douglas Nicolas Alves Neves
 
 <h2 align="center"> Objetivo do Trabalho
 
